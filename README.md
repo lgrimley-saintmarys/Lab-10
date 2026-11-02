@@ -8,7 +8,7 @@ Create a github repo called "XX-YY-Lab-10," where XX are the initials of the fir
 Do not change any of the code given to you (other than the comments which should absolutely be removed).  I will run your code with the expected structure.  You are welcome to add any additional lines of code or functions you find necessary.  If you make changes in which your solutions do not run, you will receive no credit for that problem.  All solutions should include a docstring with doctests.  Unless otherwise specified, all functions should end with a return of the appropriate type and not a print statement.
 
 # Problem 1
-Write a function which takes in a list with possibly repeating elements and returns a new list containing only unique items in the list, while maintaining the order of elements.
+Write a function, remove_duplicates, which takes in a list with possibly repeating elements and returns a new list containing only unique items in the list, while maintaining the order of elements.
 
 # Problem 2
 Consider the class of lists which are sorted in ascending order (duplicates are allowed).  Design the function merge which takes in two sorted lists and returns a new list that contains all of the elements in the two lists in sorted order.
