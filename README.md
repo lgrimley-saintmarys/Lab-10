@@ -14,7 +14,7 @@ Write a function, remove_duplicates, which takes in a list with possibly repeati
 Consider the class of lists which are sorted in ascending order (duplicates are allowed).  Design the function merge which takes in two sorted lists and returns a new list that contains all of the elements in the two lists in sorted order.
 
 # Problem 3
-Write a one-line function, count_vowels, that counts the number of vowels in a given character string.
+Write a one-line function, count_vowels, that counts the number of vowels in a given character string.  Even though sometimes "y" and "w" (among others?) behave as vowels, for the purpose of this question, we'll only consider "a", "e", "i", "o", and "u" as vowels.
 
 # Problem 4
 Write a one-line function, square, which takes a list of numbers and returns a list of all of the numbers squared.
